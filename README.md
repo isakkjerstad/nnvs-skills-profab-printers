@@ -12,3 +12,6 @@ To start 3D-printing with the Profab Mini printers, follow the steps below:
 - Click the "Open as Project" button on the popup that Cura shows.
 
 Following the steps above will install both the machine and the high quality printing profile.
+
+## Warning:
+Only use this repository with the **Profab Mini** 3D-printers.
